@@ -16,7 +16,7 @@
       "incognito": false,
       "enable_wasm": false,
       "enable_drag_drop": false,
-      "maximize": false,
+      "maximize": true,
       "start_to_tray": false,
       "force_internal_navigation": false,
       "internal_url_regex": "",
